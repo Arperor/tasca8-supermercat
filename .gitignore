@@ -1,0 +1,24 @@
+# Fitxers generats i brossa d'eines
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Sortides dels scripts
+resultats.txt
+nohup.out
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Credencials i claus: mai
+*.pfx
+*.pem
+*.key
+*.p12
+.env
